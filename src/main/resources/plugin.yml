@@ -1,0 +1,7 @@
+name: TntTag
+version: '${project.version}'
+main: me.xsenny.tnttag.TntTag
+api-version: 1.13
+commands:
+  tnt:
+    description: MainCommand
